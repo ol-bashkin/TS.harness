@@ -1,7 +1,7 @@
 {
   "name": "ts-harness",
-  "version": "0.1.0",
-  "description": "One OpenSpec change with explicit pauses, independent review, and revision-bound evidence.",
+  "version": "0.2.0",
+  "description": "Strategist, change board, executor sessions, and handover for an OpenSpec workflow with explicit pauses and independent review.",
   "author": {
     "name": "TS.harness contributors"
   },

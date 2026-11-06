@@ -8,7 +8,7 @@
     {
       "name": "ts-harness",
       "source": "./",
-      "description": "One OpenSpec change with explicit pauses, independent review, and revision-bound evidence."
+      "description": "Strategist, change board, executor sessions, and handover for an OpenSpec workflow with explicit pauses and independent review."
     }
   ]
 }
