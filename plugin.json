@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ts-harness",
+  "version": "0.1.0",
+  "description": "One OpenSpec change with explicit pauses, independent review, and revision-bound evidence."
+}

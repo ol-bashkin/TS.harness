@@ -1,0 +1,9 @@
+{
+  "name": "ts-harness",
+  "version": "0.1.0",
+  "description": "One OpenSpec change with explicit pauses, independent review, and revision-bound evidence.",
+  "author": {
+    "name": "TS.harness contributors"
+  },
+  "repository": "https://github.com/ol-bashkin/TS.harness"
+}

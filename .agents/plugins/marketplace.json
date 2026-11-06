@@ -1,0 +1,15 @@
+{
+  "name": "ts-harness",
+  "interface": {
+    "displayName": "TS.harness"
+  },
+  "plugins": [
+    {
+      "name": "ts-harness",
+      "source": {
+        "source": "local",
+        "path": "./"
+      }
+    }
+  ]
+}

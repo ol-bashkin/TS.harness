@@ -1,0 +1,14 @@
+{
+  "name": "ts-harness",
+  "description": "TS.harness workflow skills for Claude Code.",
+  "owner": {
+    "name": "TS.harness contributors"
+  },
+  "plugins": [
+    {
+      "name": "ts-harness",
+      "source": "./",
+      "description": "One OpenSpec change with explicit pauses, independent review, and revision-bound evidence."
+    }
+  ]
+}
